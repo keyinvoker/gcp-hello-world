@@ -1,0 +1,24 @@
+Flask==2.1.0; python_version > '3.6'
+Flask==2.0.3; python_version < '3.7'
+gunicorn==20.1.0
+Flask-RESTful
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+Werkzeug
+flask_wtf
+python-dotenv
+requests
+psycopg2-binary 
+csvvalidator
+email-to
+google-cloud
+flask-cors
+gunicorn==20.1.0
+google-cloud-secret-manager==2.0.0
+google-api-python-client
+gcloud
+google-cloud-storage
+pg8000
+cloud-sql-python-connector[pg8000]
+PyMySQL
